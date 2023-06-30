@@ -1,2 +1,2 @@
-# Gallery
-Test task for Sunday Game Studio
+# Gallery and other tasks
+Test tasks for Sunday Game Studio
